@@ -31,7 +31,7 @@
     "rocky": "^0.3.0"
   },
   "dependencies": {
-    "got": "^3.3.0",
+    "got": "^9.6.0",
     "object-assign": "^3.0.0"
   }
 }
